@@ -16,6 +16,16 @@
 - 🚀 Learning modern web development and deployment workflows
 - 🤝 Growing through team projects and the **UMC Inha** community
 
+## Experience & Activities
+
+- 🔬 **지능형 임베디드 시스템 연구실** — 2025년 여름방학 인턴
+- 💻 **UMC** — 2026.08.31 ~ Present
+- 🌱 **ASBG** — 2026.08.31 ~ Present
+
+## Awards
+
+- 🏆 **KB IT's Your Life 7기** — 최우수상
+
 ## Tech stack
 
 ### Main
@@ -28,6 +38,8 @@
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## GitHub stats
 
