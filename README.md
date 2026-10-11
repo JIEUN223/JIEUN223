@@ -1,58 +1,55 @@
 <div align="center">
 
-# Hi, I'm Jieun 👋
+# 안녕하세요, 이지은입니다 👋
 
-**Backend developer in progress — building solid fundamentals and reliable services.**
+**기본기를 바탕으로 안정적인 서비스를 만드는 백엔드 개발자로 성장하고 있습니다.**
 
 [![Email](https://img.shields.io/badge/Email-lje030522%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lje030522@gmail.com)
 
 </div>
 
-## About me
+## 소개
 
-- 🎓 Computer Science student at Inha University
-- 🌱 Currently focused on **Java & Spring backend development**
-- 🧩 Strengthening problem-solving and CS fundamentals with **C++**
-- 🚀 Learning modern web development and deployment workflows
-- 🤝 Growing through team projects and the **UMC Inha** community
+- 🎓 인하대학교 컴퓨터공학과 재학
+- 🌱 **Java와 Spring 기반의 백엔드 개발**을 공부하고 있습니다
 
-## Experience & Activities
+## 경험 및 활동
 
 - 🔬 **지능형 임베디드 시스템 연구실** — 2025년 여름방학 인턴
-- 💻 **UMC** — 2026.08.31 ~ Present
-- 🌱 **ASBG** — 2026.08.31 ~ Present
+- 💻 **UMC** — 2026.08.31 ~ 현재
+- 🌱 **ASBG** — 2026.08.31 ~ 현재
 
-## Awards
+## 수상
 
 - 🏆 **KB IT's Your Life 7기** — 최우수상
 
-## Tech stack
+## 기술 스택
 
-### Main
+### 주력 기술
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-### Also working with
+### 사용 경험이 있는 기술
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## GitHub stats
+## GitHub 통계
 
 <div align="center">
 
-![Jieun's GitHub stats](https://github-readme-stats.vercel.app/api?username=JIEUN223&show_icons=true&hide_border=true&rank_icon=github&theme=transparent)
+![이지은의 GitHub 통계](https://github-readme-stats.vercel.app/api?username=JIEUN223&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&locale=kr)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JIEUN223&layout=compact&hide_border=true&theme=transparent)
+![가장 많이 사용한 언어](https://github-readme-stats.vercel.app/api/top-langs/?username=JIEUN223&layout=compact&hide_border=true&theme=transparent&locale=kr)
 
 </div>
 
 ---
 
 <div align="center">
-  <sub>Learning consistently, building thoughtfully.</sub>
+  <sub>꾸준히 배우고, 깊이 고민하며 개발합니다.</sub>
 </div>
