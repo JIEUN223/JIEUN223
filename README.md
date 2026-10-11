@@ -38,13 +38,11 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## GitHub 통계
-
 <div align="center">
 
-![이지은의 GitHub 통계](https://github-readme-stats.vercel.app/api?username=JIEUN223&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&locale=kr)
+![Jieun's GitHub stats](https://github-readme-stats.vercel.app/api?username=JIEUN223&show_icons=true&hide_border=true&rank_icon=github&theme=transparent)
 
-![가장 많이 사용한 언어](https://github-readme-stats.vercel.app/api/top-langs/?username=JIEUN223&layout=compact&hide_border=true&theme=transparent&locale=kr)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JIEUN223&layout=compact&hide_border=true&theme=transparent)
 
 </div>
 
