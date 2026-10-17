@@ -1,8 +1,8 @@
 <div align="center">
 
-# 안녕하세요, 이지은입니다 👋
+# 안녕하세요 👋
 
-**기본기를 바탕으로 안정적인 서비스를 만드는 백엔드 개발자로 성장하고 있습니다.**
+**안정적인 서비스를 만드는 백엔드 개발자로 성장하고 있습니다.**
 
 [![Email](https://img.shields.io/badge/Email-lje030522%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lje030522@gmail.com)
 
